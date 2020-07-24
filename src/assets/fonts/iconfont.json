@@ -1,0 +1,121 @@
+{
+  "id": "1953936",
+  "name": "elem-app",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13617424",
+      "name": "清空",
+      "font_class": "qingkong",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7679112",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "4836992",
+      "name": "关  闭",
+      "font_class": "guanbi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "7082006",
+      "name": "收 藏-产品详情",
+      "font_class": "shoucang2",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "5918028",
+      "name": "收 藏",
+      "font_class": "shoucang1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "11227881",
+      "name": "勾",
+      "font_class": "gou",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "11383274",
+      "name": "勾",
+      "font_class": "gou1",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "1755038",
+      "name": "惠",
+      "font_class": "hui",
+      "unicode": "e7a4",
+      "unicode_decimal": 59300
+    },
+    {
+      "icon_id": "3554784",
+      "name": "品牌认证",
+      "font_class": "pinpairenzheng",
+      "unicode": "e7a8",
+      "unicode_decimal": 59304
+    },
+    {
+      "icon_id": "3600032",
+      "name": "折",
+      "font_class": "zhe",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "3817957",
+      "name": "减",
+      "font_class": "jian",
+      "unicode": "e764",
+      "unicode_decimal": 59236
+    },
+    {
+      "icon_id": "4846145",
+      "name": "公告",
+      "font_class": "gaokaobei",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "6076387",
+      "name": "向右箭头",
+      "font_class": "right",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "10287455",
+      "name": "食物",
+      "font_class": "shiwu",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "10551667",
+      "name": "增加",
+      "font_class": "zengjia",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "12215368",
+      "name": "减少",
+      "font_class": "jianshao",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    }
+  ]
+}
